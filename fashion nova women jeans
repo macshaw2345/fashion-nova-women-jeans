@@ -1,0 +1,1034 @@
+
+<html>
+<title>Fashion Nova</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<style>
+.w3-sidebar a {font-family: "Roboto", sans-serif}
+body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", comic;}
+</style>
+<body class="w3-content" style="max-width:1500px">
+
+<!-- Sidebar/menu -->
+<nav class="w3-sidebar w3-bar-block w3-white w3-collapse w3-top" style="z-index:3;width:200px" id="mySidebar">
+  <div class="w3-container w3-display-container w3-padding-16">
+    <i onclick="w3_close()" class="fa fa-remove w3-hide-large w3-button w3-display-topright"></i>
+    <h3 class="w3-wide"><b>CHEKZZ</b></h3>
+  </div>
+    <div class="w3-padding-100 w3-large w3-text-grey" style="font-weight:bold" colorname="black">
+  <a onclick="myAccFunc()" href="javascript:void(0)" class="w3-button w3-block w3-white w3-left-align" id="myBtn">
+    Fashion<i class="fa fa-caret-down"></i>  
+    </a>
+    </a>
+    <div id="demoAcc" class="w3-bar-block w3-hide w3-padding-large w3-medium">
+      <a href="#" class="w3-bar-item w3-button w3-light-grey"><i class="fa fa-caret-right w3-margin-right">Fashion Nova</a>
+      <a href="file:///Applications/fashion%20nova%20women%20jeans%20chekzz.html" class="w3-bar-item w3-button">Women Jeans</a>
+      <a href="file:///Applications/%20Fashion%20Nova%20men%20jeans%20chekzz.html" class="w3-bar-item w3-button">Men Jeans</a>
+      <a href="#" class="w3-bar-item w3-button">Women Shirts</a>
+      <a href="#" class="w3-bar-item w3-button">Men Shirts</a>
+       <a href="#" class="w3-bar-item w3-button">Dresses</a>
+         <a href="#" class="w3-bar-item w3-button">Jackets</a>
+    </div>
+    <a href="#" class="w3-bar-item w3-button">MICHEKZZ COMING SOON</a>
+    <a href="#" class="w3-bar-item w3-button">ADCHEKZZ COMING SOON</a>
+    <a href="#" class="w3-bar-item w3-button">SPOTCHEKZZ COMING SOON</a>
+  </div>
+  <a href="#footer" class="w3-bar-item w3-button w3-padding">Contact</a> 
+  <a href="javascript:void(0)" class="w3-bar-item w3-button w3-padding" onclick="document.getElementById('newsletter').style.display='block'">Newsletter</a> 
+  <a href="#footer"  class="w3-bar-item w3-button w3-padding">Subscribe</a>
+</nav>
+
+<!-- Top menu on small screens -->
+<header class="w3-bar w3-top w3-hide-large w3-grey w3-xlarge">
+  <div class="w3-bar-item w3-padding-24 w3-wide">LOGO</div>
+  <a href="javascript:void(0)" class="w3-bar-item w3-button w3-padding-24 w3-left" onclick="w3_open()"><i class="fa fa-bars"></i></a>
+</header>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:220px">
+
+  <!-- Push down content on small screens -->
+  <div class="w3-hide-large" style="margin-top:100px"></div>
+  
+
+
+  
+
+<body class="w3-black">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1350px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+
+      <div class="w3-white w3-text-grey w3-card-4">
+         <div class="w3-display-container">
+    <div class="card">
+  <img src="file:///Users/macshaw/Documents/Fashion%20Nova%20chekzz%20pic.jpg" alt="John" style="width:100%">
+  <p class="title"><font color="black">Fashion Nova</h1></font>
+  <p class="title"><font color="black">Fashion</p></font>
+ 
+  <div style="margin: 24px 0;">
+    <i class=""></i></a>  
+ <a href="https://www.fashionnova.com/collections/jeans" target="_blank"><p>FashionNova.com</p></a>
+  </div>
+  <p><button>Contact</button></p>
+</div>
+
+
+ 
+    
+          <br>
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+    
+  
+      
+        <div class="w3-container">
+         <style>
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+</style>
+           <style>
+table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;    
+}
+</style>
+</head>
+
+<style>
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;    
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+   background-color:#fff;
+}
+table#t01 th 
+}
+
+</style>
+</head>
+
+
+  <style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.flip-card {
+  background-color: transparent;
+  width: 300px;
+  height: 300px;
+  perspective: 1000px;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: black;
+  color: black;
+  z-index: 2;
+}
+
+.flip-card-back {
+  background-color: black;
+  color: white;
+  transform: rotateY(180deg);
+  z-index: 1;
+}
+</style>
+
+        <div class="w3-container">
+         
+      <style>
+table, th, td {
+    border: 3px white
+    border-collapse: collapse;
+}
+th, td {
+    padding: 3px;
+    text-align: left;    
+
+
+}
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+   background-color:#fff;
+}
+table#t01 th 
+}
+
+</style>
+</head>
+<style> @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.sixTopicsContainer {
+  max-width: 750px;
+  margin: 0;
+  padding: 0;
+}
+
+.sixTopicsBanner {
+  width: 100%;
+  height: auto;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+  overflow: hidden;
+}
+
+.sixTopicsWrapper {
+  max-width: 750px;
+  background: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.sixTopicsBoxes {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-flow: wrap;
+  -webkit-flex-flow: wrap;
+  justify-content: space-around;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.sixTopicsBox {
+  position: relative;
+  display: block;
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.sixTopicsBox img {
+  margin: 10px;
+  padding: 0;
+}
+
+.sixTopicsBox p {
+  position: absolute;
+  bottom: 25%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  font-size: 1.5em;
+  cursor: pointer;
+}
+
+.sixTopicsBox:hover {
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.sixTopicsTech {
+  max-width: 730px;
+  background: #492365;
+  color: #fff;
+  padding: 5px 10px;
+  font-size: 1em;
+  text-align: center;
+  border-top: 10px solid #7f56c5;
+}</style>
+<style>
+marquee {
+   
+   font: 30px  Helvetica, Verdana, sans-serif;
+   font-weight:bold ;
+   background-color: white;
+    
+}
+ </style>
+ 
+      
+<style>
+marquee {
+   
+   font: 30px  Helvetica, Verdana, sans-serif;
+   font-weight:bold ;
+   background-color: white;
+    
+}
+ </style>
+ <style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.collapsible:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+</style>
+
+      
+ <style>
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+</style>
+<style>
+  *{
+  border-sizing: border-box;
+}
+body{
+ margin: 0;
+ padding: 0;
+}
+.mySlides{
+  display: none;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+.slideContainer{
+  position: relative;
+  max-width: 50%;
+  margin: auto;
+  padding-top: 16px;
+}
+.pic{
+  position: relative;
+  width: 100%;
+  height: 35%;
+  border-radius: 5px;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  /*width: auto;*/
+  margin-top: -1em;
+  padding: 16px;
+  color: #D8D8D8;
+  /*font-weight: bold;*/
+  font-size: 2em;
+  transition: 0.6s ease;
+  border-radius: 0 5px 5px 0;
+}
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 5px 0 0 5px;
+}
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.6);
+}
+.text{
+  position: relative;
+  bottom: 32px;
+  color: #D8D8D8;
+  text-align: center;
+  font-family: arial;
+}
+.numbertext{  
+  position: relative;
+  top: 20px;
+  left: 16px;
+  font-size: 12px;
+  color: #D8D8D8;
+  text-align: left;
+  font-family: arial;
+  z-index: 1;
+}
+.dot{
+  width: 16px;
+  height: 16px;
+  align: center;
+  background-color: #D8D8D8;
+  border-radius: 50%;
+  display: inline-block;
+  cursor: pointer;
+  transition: background-color 0.6s ease;
+}
+.active, .dot:hover {
+  background-color: #717171;
+}
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+.content{
+  position: relative;
+  max-width: 20%;
+  margin: auto;
+  margin-top: 16px;
+  border-left: 0.2em solid #D8D8D8;
+  border-right: 0.2em solid #D8D8D8;
+  padding-left: 2%;
+  padding-right: 2%;
+  color: #848484;
+  min-height: 30px;
+  font-family: arial;
+}
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 150px) {
+  .text, .numbertext {font-size: 11px;}
+  .dot{
+  width: 10px;
+  height: 10px;
+  }
+}
+</style>
+<style>
+ul#menu {
+    padding: 0;
+}
+
+ul#menu li {
+    display: inline;
+}
+
+ul#menu li a {
+    background-color: white;
+    color: black;
+    padding: 5px 5px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li a:hover {
+    background-color: white;
+}
+</style>
+
+</head>
+
+<table style="width:100%">
+  <tr>
+    <th></th>
+    <th colspan="2"></th>
+  </tr>
+ 
+
+  <tr>
+  <td>
+    <marquee><a href="https://www.fashionnova.com/collections/jeans/products/classic-high-waist-skinny-jeans-medium-blue"target="_blank"><img src="https://cdn.shopify.com/s/files/1/0293/9277/products/07-10-19_Studio_1_OD_13-48-56_4_Skinny_High_Rise_3643_Classic_High_Waist_Skinny_Jeans_-_Medium_Blue_Wash_JK_RG.jpg?v=1565367835" height="150" width="125"><a href="https://www.fashionnova.com/collections/jeans/products/jammin-on-boyfriend-jeans-light-wash" target="_blank"> <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/07-11-19_Studio_1_DV_11-06-28_9__FNOVA09_LightWash_Jammin_On_Boyfriend_Jeans_-_Light_Wash_24_RG_760x.jpg?v=1563897761" height="150" width="125"><a href="https://www.fashionnova.com/collections/jeans/products/jaded-high-rise-skinny-jeans-dark-denim"><img src="https://cdn.shopify.com/s/files/1/0293/9277/products/08-07-19_Studio_1_OD_15-36-36_19_FN22841_DarkDenim_3810_JK_760x.jpg?v=1565294040"height="150" width="125"><a href="https://www.fashionnova.com/collections/jeans/products/get-down-and-dirty-bermuda-shorts-medium-blue-wash"target="_blank"> <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/02-28-19_Studio_1_RM_10-46-17_6170_MediumBlueWash_0198_AG_760x.jpg?v=1551730786" height="150" width="125"> </marquee>
+        </a>
+      </td>
+        <td>
+    <marquee><a href="https://www.fashionnova.com/collections/jeans/products/dare-devil-distressed-high-rise-skinny-jeans-vintage-wash"><a href="https://www.fashionnova.com/collections/jeans/products/got-it-flaunt-it-high-rise-distressed-jeans-dark-denim"><img src="https://cdn.shopify.com/s/files/1/0293/9277/products/05-17-18_AP4257_DarkDenim_10126_8_760x.JPG?v=1548722426" height="150" width="125"> <a href="https://www.fashionnova.com/collections/jeans/products/katt-flare-button-jeans-black"><img src="https://cdn.shopify.com/s/files/1/0293/9277/products/05-17-19_Studio_1_JP_16-14-48_31__FN22875G73_Black_0100_RG.jpg?v=1560792175" height="150" width="125"><a href="https://www.fashionnova.com/collections/jeans/products/flip-flop-exposed-button-skinny-jeans-black"><img src="https://cdn.shopify.com/s/files/1/0293/9277/products/07-11-19_Studio_2_MA_11-46-50_37_FN22847_Black_4367_RA_760x.jpg?v=1564418191"height="150" width="125"><a href="https://www.fashionnova.com/collections/jeans/products/zip-me-in-shorts-medium-blue-wash"> <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/05-14-19_Studio_4_DV_14-43-05_49__AP7061_MediumBlueWash_2074_JD_760x.jpg?v=1561747523" height="150" width="125"><a href="https://www.fashionnova.com/collections/jeans/products/nicola-high-rise-lace-up-skinny-jeans-black"><img src="https://cdn.shopify.com/s/files/1/0293/9277/products/11-02-18_Studio_2_13-04-24_BL14_Black0439_JD_760x.jpg?v=1544050189" height="150" width="125"> </marquee>
+        </a>
+      </td>
+      </tr>
+<tr>
+    <td>
+       <div class="column Jeans">
+<div class="card">
+<div class="card">
+  <div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/07-10-19_Studio_1_OD_13-44-40_4_Skinny_High_Rise_3601_Classic_High_Waist_Skinny_Jeans_-_Medium_Blue_Wash_JK_RG_760x.jpg?v=1565367835" alt="Avatar" style="width:300px;height:300px;">
+    </div>
+    <div class="flip-card-back">
+    <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/07-10-19_Studio_1_OD_13-47-15_4_Skinny_High_Rise_3630_Classic_High_Waist_Skinny_Jeans_-_Medium_Blue_Wash_JK_RG.jpg?v=1565367835"
+    style="width:300px; height:300px;">
+    </div>
+  </div>
+</div>
+  <p>Classic High Waist Skinny Jeans - Medium Blue Wash</p>
+  <p class="price">$34.99</p>
+  <a href="https://www.fashionnova.com/collections/jeans/products/classic-high-waist-skinny-jeans-medium-blue" target="_blank"><p><button>FashionNova.com</button></p></a>
+</div> 
+
+</td>
+<td>
+     <div class="column Jeans">
+<div class="card">
+<div class="card">
+  <div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/10-29-18_Studio_2_11-30-53_BLACK_JEAN_TEMP0423_DM.jpg?v=1564607105" alt="Avatar" style="width:300px;height:300px;">
+    </div>
+    <div class="flip-card-back">
+    <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/10-29-18_Studio_2_11-36-57_P831_Black_12574_JD.jpg?v=1564607105"
+    style="width:300px; height:300px;">
+    </div>
+  </div>
+</div>
+  <p>Canopy Jeans - Black</p>
+  <p class="price">$32.99</p>
+  <a href="https://www.fashionnova.com/collections/jeans/products/canopy-jeans-black" target="_blank"><p><button>FashionNova.com</button></p></a>
+</div> 
+
+</td>
+</tr>
+<tr>
+  <td>
+     <div class="column Jeans">
+<div class="card">
+<div class="card">
+  <div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/Fashion_Nova_07-14-17_Studio_2-418.jpg?v=1538070688" alt="Avatar" style="width:300px;height:300px;">
+    </div>
+    <div class="flip-card-back">
+    <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/Fashion_Nova_07-14-17_Studio_2-442.jpg?v=1538070688"
+    style="width:300px; height:300px;">
+    </div>
+  </div>
+</div>
+  <p>Up And Above Bermuda Shorts - Light Blue</p>
+  <p class="price">$31.99</p>
+  <a href="https://www.fashionnova.com/collections/denim-shorts/products/up-and-above-bermuda-shorts-light-blue" target="_blank"><p><button>FashionNova.com</button></p></a>
+</div> 
+
+</div> 
+</td>
+    <td>
+
+  <div class="column Jeans">
+<div class="card">
+<div class="card">
+  <div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/08-02-19_Studio_1_DV_14-40-35_21__FN22841_AcidWash_3831_KS.jpg?v=1565050101" alt="Avatar" style="width:300px;height:300px;">
+    </div>
+    <div class="flip-card-back">
+    <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/08-02-19_Studio_1_DV_14-41-32_21__FN22841_AcidWash_3845_KS.jpg?v=1565050101"
+    style="width:300px; height:300px;">
+    </div>
+  </div>
+</div>
+  <p>
+STYLED ON INSTAGRAM
+Jaded High Rise Skinny Jeans - Acid Wash</p>
+  <p class="price">$39.99</p>
+  <a href="https://www.fashionnova.com/collections/new-arrivals-jeans/products/jaded-high-rise-skinny-jeans-acid-wash" target="_blank"><p><button>FashionNova.com</button></p></a>
+</div> 
+
+</div> 
+</td>
+
+</tr>
+
+<tr>
+ <td>
+     <div class="column Jeans">
+<div class="card">
+<div class="card">
+  <div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/07-31-19_Studio_1_DV_16-01-38_26__4706_LightBlueWash_P_3873_KS.jpg?v=1565025896" alt="Avatar" style="width:300px;height:300px;">
+    </div>
+    <div class="flip-card-back">
+    <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/07-31-19_Studio_1_DV_16-02-05_26__4706_LightBlueWash_P_3885_KS.jpg?v=1565025896"
+    style="width:300px; height:300px;">
+    </div>
+  </div>
+</div>
+  <p>
+You're Not Enough Distressed Jeans - Light Blue Wash</p>
+  <p class="price">$54.99</p>
+  <a href="https://www.fashionnova.com/collections/new-arrivals-jeans/products/youre-not-enough-distressed-jeans-light-blue-wash" target="_blank"><p><button>FashionNova.com</button></p></a>
+</div> 
+
+</div> 
+</td>
+    <td>
+
+  <div class="column Jeans">
+<div class="card">
+<div class="card">
+  <div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/05-15-19_Studio_3_MA_14-31-15_18_FN22782G73_White_1079_KS.jpg?v=1558133987" alt="Avatar" style="width:300px;height:300px;">
+    </div>
+    <div class="flip-card-back">
+    <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/05-15-19_Studio_3_MA_14-31-23_18_FN22782G73_White_1084_KS.jpg?v=1558133987"
+    style="width:300px; height:300px;">
+    </div>
+  </div>
+</div>
+  <p>
+
+Famous Low Rise Skinny Jeans - White</p>
+  <p class="price">$34.99</p>
+  <a href="https://www.fashionnova.com/collections/new-arrivals-jeans/products/famous-low-rise-skinny-jeans-white" target="_blank"><p><button>FashionNova.com</button></p></a>
+</div> 
+
+</div> 
+</td>
+  
+<tr>
+   <td>
+     <div class="column Jeans">
+<div class="card">
+<div class="card">
+  <div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/06-19-19_Studio_1_RM_14-34-20_22__WV76909_Coral_3730_JK_760x.jpg?v=1564621111" alt="Avatar" style="width:300px;height:300px;">
+    </div>
+    <div class="flip-card-back">
+    <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/06-19-19_Studio_1_RM_14-34-54_22__WV76909_Coral_3739_JK_760x.jpg?v=1564621111"
+    style="width:300px; height:300px;">
+    </div>
+  </div>
+</div>
+  <p>Suga Mama High Rise Jeans - Coral</p>
+  <p class="price">$44.99</p>
+  <a href="https://www.fashionnova.com/collections/new-arrivals-jeans/products/suga-mama-boyfriend-jeans-coral" target="_blank"><p><button>FashionNova.com</button></p></a>
+</div> 
+
+</div> 
+</td>
+    <td>
+
+  <div class="column Jeans">
+<div class="card">
+<div class="card">
+  <div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/07-25-19_Studio_2_MA_10-45-21_17_WV76909_Chartreuse_CC_5411_RA_JK.jpg?v=1564419697" alt="Avatar" style="width:300px;height:300px;">
+    </div>
+    <div class="flip-card-back">
+    <img src="https://cdn.shopify.com/s/files/1/0293/9277/products/07-25-19_Studio_2_MA_10-45-30_17_WV76909_Chartreuse_CC_5418_RA_JK_760x.jpg?v=1564419697"
+    style="width:300px; height:300px;">
+    </div>
+  </div>
+</div>
+  <p>
+Suga Mama High Rise Jeans - Chartreuse</p>
+  <p class="price">$44.99</p>
+  <a href="https://www.fashionnova.com/collections/new-arrivals-jeans/products/suga-mama-boyfriend-jeans-chartreuse" target="_blank"><p><button>FashionNova.com</button></p></a>
+</div> 
+
+</div> 
+</td>
+
+
+</body>
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+<script>
+filterSelection("all")
+function filterSelection(c) {
+  var x, i;
+  x = document.getElementsByClassName("column");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "show");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+  }
+}
+
+function w3AddClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
+  }
+}
+
+function w3RemoveClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    while (arr1.indexOf(arr2[i]) > -1) {
+      arr1.splice(arr1.indexOf(arr2[i]), 1);     
+    }
+  }
+  element.className = arr1.join(" ");
+}
+
+
+// Add active class to the current button (highlight it)
+var btnContainer = document.getElementById("myBtnContainer");
+var btns = btnContainer.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function(){
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+</script>
+
+</body>
+</html>
+
+      
+ 
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  
+    </td>
+    
+  </tr>
+</table>
+
+
+  <html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f1f1f1;
+    padding: 20px;
+    font-family: Arial;
+}
+
+/* Center website */
+.main {
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 50px;
+    word-break: break-all;
+}
+
+.row {
+    margin: 10px -16px;
+}
+
+/* Add padding BETWEEN each column */
+.row,
+.row > .column {
+    padding: 8px;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 33.33%;
+    display: none; /* Hide all elements by default */
+}
+
+/* Clear floats after rows */ 
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Content */
+.content {
+    background-color: white;
+    padding: 10px;
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
+}
+
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.btn.active {
+  background-color: #666;
+  color: white;
+}
+</style>
+</head>
+
+
+  <!-- End page content -->
+</div>
+ <script>
+// Accordion 
+function myAccFunc() {
+    var x = document.getElementById("demoAcc");
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else {
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+
+// Click on the "Jeans" link on page load to open the accordion for demo purposes
+document.getElementById("myBtn").click();
+
+
+// Script to open and close sidebar
+function w3_open() {
+    document.getElementById("mySidebar").style.display = "block";
+    document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function w3_close() {
+    document.getElementById("mySidebar").style.display = "none";
+    document.getElementById("myOverlay").style.display = "none";
+}
+</script>
+<script>var slideIndexAuto = 0;
+showSlidesAuto();
+
+function showSlidesAuto() {
+var i;
+var slides = document.getElementsByClassName("mySlides");
+var dots = document.getElementsByClassName("dot");  
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+    slideIndexAuto++;
+    if (slideIndexAuto > slides.length) {slideIndexAuto = 1}
+    slides[slideIndexAuto-1].style.display = "block";
+for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+dots[slideIndexAuto-1].className += " active";
+    setTimeout(showSlidesAuto, 9000); // Change image every 2 seconds
+} 
+
+
+var slideIndex = 1;
+showSlides(slideIndex);
+
+// Next/previous controls
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+// Thumbnail image controls
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+
+} </script>
+
+
+</body>
+</html>
+
+
+</body>
+</html>
